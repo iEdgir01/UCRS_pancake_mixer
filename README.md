@@ -42,7 +42,7 @@ This project provides functionality to generate a valid pancake stack based on s
 ## Example
 You want to create a pancake stack that contains 4 pancakes, and has to contain an Orange and a Grey Pancake.
 ```
-Enter the pancake stack size and required pancakes (e.g., 4OG): 4OG
+Enter the pancake stack size and required pancakes: 4OG
 Generated stack: WOOG
 Attempt number: 2
 ```
